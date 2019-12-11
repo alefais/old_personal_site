@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://alefais.github.io/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/</loc>
+    <lastmod>2019-10-04T10:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/tags/all/</loc>
+    <lastmod>2019-10-04T10:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/thesis/msc/</loc>
+    <lastmod>2019-10-04T10:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/tags/parallel-computing/</loc>
+    <lastmod>2019-10-04T10:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/project/</loc>
+    <lastmod>2019-10-04T10:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/tags/</loc>
+    <lastmod>2019-10-04T10:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/thesis/</loc>
+    <lastmod>2019-10-04T10:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/project/windflow/</loc>
+    <lastmod>2019-10-04T10:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/thesis/bsc/</loc>
+    <lastmod>2016-03-11T10:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/talk/</loc>
+  </url>
+  
+</urlset>

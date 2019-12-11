@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Alessandra Fais</title>
+    <link>https://alefais.github.io/authors/</link>
+      <atom:link href="https://alefais.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;#9400; 2019 Alessandra Fais</copyright>
+    <image>
+      <url>https://alefais.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://alefais.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://alefais.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alefais.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I&#39;m a Ph.D. student at the Department of Information Engineering (DII) of the University of Pisa, under the supervision of Prof. &lt;a href=&#34;https://www.researchgate.net/profile/S_Giordano&#34;&gt;Stefano Giordano&lt;/a&gt; and Prof. &lt;a href=&#34;https://www.researchgate.net/profile/Gregorio_Procissi&#34;&gt;Gregorio Procissi&lt;/a&gt;. My main research interests are in the subjects of Network Monitoring, Software Defined Networks, Parallel Computing, High-Performance Computing. During my Master&#39;s thesis I had the possibility of being more familiar with the topic of Data Stream Processing and I&#39;d be very interested in further exploring this research area with a focus on real-time applications in the networking domain.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

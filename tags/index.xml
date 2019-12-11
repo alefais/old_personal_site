@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Alessandra Fais</title>
+    <link>https://alefais.github.io/tags/</link>
+      <atom:link href="https://alefais.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;#9400; 2019 Alessandra Fais</copyright><lastBuildDate>Fri, 04 Oct 2019 10:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alefais.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://alefais.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>All</title>
+      <link>https://alefais.github.io/tags/all/</link>
+      <pubDate>Fri, 04 Oct 2019 10:30:00 +0000</pubDate>
+      <guid>https://alefais.github.io/tags/all/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Computing</title>
+      <link>https://alefais.github.io/tags/parallel-computing/</link>
+      <pubDate>Fri, 04 Oct 2019 10:30:00 +0000</pubDate>
+      <guid>https://alefais.github.io/tags/parallel-computing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Alessandra Fais</title>
+    <link>https://alefais.github.io/project/</link>
+      <atom:link href="https://alefais.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;#9400; 2019 Alessandra Fais</copyright><lastBuildDate>Fri, 04 Oct 2019 10:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alefais.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://alefais.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>WindFlow</title>
+      <link>https://alefais.github.io/project/windflow/</link>
+      <pubDate>Fri, 04 Oct 2019 10:30:00 +0000</pubDate>
+      <guid>https://alefais.github.io/project/windflow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

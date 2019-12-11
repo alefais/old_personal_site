@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theses | Alessandra Fais</title>
+    <link>https://alefais.github.io/thesis/</link>
+      <atom:link href="https://alefais.github.io/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Theses</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;#9400; 2019 Alessandra Fais</copyright><lastBuildDate>Fri, 04 Oct 2019 10:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alefais.github.io/img/icon-192.png</url>
+      <title>Theses</title>
+      <link>https://alefais.github.io/thesis/</link>
+    </image>
+    
+    <item>
+      <title>Master&#39;s Thesis [2019] - Benchmarking Data Stream Processing Frameworks on Multicores</title>
+      <link>https://alefais.github.io/thesis/msc/</link>
+      <pubDate>Fri, 04 Oct 2019 10:30:00 +0000</pubDate>
+      <guid>https://alefais.github.io/thesis/msc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bachelor&#39;s Thesis [2016] - Programming Techniques for FPGA Devices</title>
+      <link>https://alefais.github.io/thesis/bsc/</link>
+      <pubDate>Fri, 11 Mar 2016 10:30:00 +0000</pubDate>
+      <guid>https://alefais.github.io/thesis/bsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
