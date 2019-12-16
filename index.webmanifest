@@ -2,8 +2,8 @@
   "name": "Alessandra Fais",
   "short_name": "Alessandra Fais",
   "lang": "en-us",
-  "theme_color": "#795548",
-  "background_color": "#795548",
+  "theme_color": "#0E6655",
+  "background_color": "#0E6655",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",
